@@ -1,8 +1,9 @@
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
-import 'package:flutter_zegocloud_demo/screens/utils/constants.dart';
 import 'package:zego_uikit_prebuilt_call/zego_uikit_prebuilt_call.dart';
 import 'package:get/get.dart';
+
+import '../../utils/constants.dart';
 
 final String localUserID = math.Random().nextInt(10000).toString();
 

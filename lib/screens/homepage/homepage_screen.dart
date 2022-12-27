@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
+import '../../utils/constants.dart';
 import '../call_id_page/call_id_page.dart';
-import '../utils/constants.dart';
 
 class HomePageScreen extends StatelessWidget {
   const HomePageScreen({Key? key}) : super(key: key);
